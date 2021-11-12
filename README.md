@@ -13,4 +13,4 @@ $ npm install
 
 ## Usage
 
-node index.js --site=<sitename> --sitemapurl=<https://example.com/sitemap.xml>
+node index.js --site=sitename --sitemapurl=https://example.com/sitemap.xml
