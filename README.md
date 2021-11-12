@@ -1,4 +1,4 @@
-# xml-ligthouse
+# xml-lighthouse
 
 A command-line utility to generate mobile and desktop lighthouse reports given a sitemap. 
 
