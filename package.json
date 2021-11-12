@@ -1,0 +1,25 @@
+{
+  "name": "xml-lighthouse",
+  "version": "1.0.0",
+  "description": "A command-line utility to generate lighthouse reports for all pages in a sitemap and aggregate the results into csv for analysis",
+  "main": "index.js",
+  "scripts": {
+    "run": "index.js"
+  },
+  "author": "Mark Brown",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markwbrown/xml-lighthouse.git"
+  }
+  "dependencies": {
+    "chrome-launcher": "^0.15.0",
+    "csv-parse": "^4.16.3",
+    "csv-stringify": "^5.6.5",
+    "lighthouse": "^8.6.0",
+    "lighthouse-logger": "^1.3.0",
+    "puppeteer": "^11.0.0",
+    "xml-flow": "^1.0.4",
+    "yargs": "^17.2.1"
+  }
+}
