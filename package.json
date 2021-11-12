@@ -1,6 +1,6 @@
 {
   "name": "xml-lighthouse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A command-line utility to generate lighthouse reports for all pages in a sitemap and aggregate the results into csv for analysis",
   "main": "index.js",
   "scripts": {
